@@ -90,3 +90,5 @@ Note: For other test frameworks supported by App-Automate refer our [Developer d
 ## Getting Help
 
 If you are running into any issues or have any queries, please check [Browserstack Support page](https://www.browserstack.com/support/app-automate) or [get in touch with us](https://www.browserstack.com/contact?ref=help).
+
+- Personal Git Repository: git remote add origin [https://github.com/jacesca/AppiumOverview.git](https://github.com/jacesca/AppiumOverview.git)
