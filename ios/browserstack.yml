@@ -1,0 +1,17 @@
+userName: jacquelinedecort_ukU2QT
+accessKey: 3XUckXSQbEnqhGxqipic
+framework: python
+app: bs://sample.app
+platforms:
+  - platformName: ios
+    deviceName: iPhone 14 Pro Max
+    platformVersion: 16
+  - platformName: ios
+    deviceName: iPhone XS
+    platformVersion: 15
+  - platformName: ios
+    deviceName: iPhone 11
+    platformVersion: 14
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
